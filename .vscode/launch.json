@@ -1,0 +1,30 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "name": "icbmt2023",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "icbmt2023 (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "icbmt2023 (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "Flutter (iPhone 12 Pro Max)",
+            "program": "lib/main.dart",
+            "deviceId": "CB7EFA71-DF43-4335-AA40-F357ABA2B6D5",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
